@@ -1,0 +1,5 @@
+
+Hello World!
+git checkout -b <branch name> // create and switch to that branch 
+Eg: git checkout -b branch2 
+git fetch    // to fetch the details from central repo
